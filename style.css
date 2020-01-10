@@ -1,0 +1,51 @@
+
+*{
+    box-sizing: border-box;
+    font-family: 'Kulim Park', sans-serif;
+}
+
+
+
+#loadspinner{
+    background-image: url("https://media3.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif");
+    background-position:center;
+    background-repeat: no-repeat;
+}
+
+.hide{
+    display:none;
+}
+
+.picstyle{
+    height:35vh;
+    text-align:right;
+    text-align: right;
+    right:0px;
+    float: right;
+
+
+}
+
+li{
+
+    height:40vh;
+    width:80vw;
+    margin:5vh;
+    box-shadow: -6px -6px 5px 0px rgba(64, 80, 89, 0.23);
+    list-style-type: none;
+    font-size:18px;
+    padding:2vh;
+   
+}
+label{
+    margin-bottom:5vh;
+}
+a{
+    margin-top:2vh;
+    margin-bottom:2vh;
+    font-size:12px;
+}
+div{
+width:50vw;
+font-size:12px;
+}
